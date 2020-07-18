@@ -1,4 +1,4 @@
-## Experiment 1: Shader Programs
+## Experiment 00: Shader Programs
 
 #### New to Me
 - A shader is a program that runs in the graphics pipeline and tells the computer how to render each pixel.
