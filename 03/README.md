@@ -1,4 +1,4 @@
-## Experiment 02: Loaders
+## Experiment 03: Loaders
 
 #### New to Me
 - babylon.js can be loaded in with CDN scripts.
