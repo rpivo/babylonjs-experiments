@@ -5,3 +5,4 @@
 - 03 / [Loaders](https://github.com/rpivo/babylonjs-experiments/tree/master/03)
 - 04 / [The touch-action CSS Property](https://github.com/rpivo/babylonjs-experiments/tree/master/04)
 - 05 / [TypeScript Triple-Slash Directives](https://github.com/rpivo/babylonjs-experiments/tree/master/05)
+- 06 / [TypeScript Overloads](https://github.com/rpivo/babylonjs-experiments/tree/master/06)
