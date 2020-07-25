@@ -7,4 +7,5 @@
 - 05 / [TypeScript Triple-Slash Directives](https://github.com/rpivo/babylonjs-experiments/tree/master/05)
 - 06 / [TypeScript Overloads](https://github.com/rpivo/babylonjs-experiments/tree/master/06)
 - 07 / [The Engine Class](https://github.com/rpivo/babylonjs-experiments/tree/master/07)
-- 07 / [Babylon Window Objects](https://github.com/rpivo/babylonjs-experiments/tree/master/08)
+- 08 / [Babylon Window Objects](https://github.com/rpivo/babylonjs-experiments/tree/master/08)
+- 09 / [Mounting Class Instances on the Window](https://github.com/rpivo/babylonjs-experiments/tree/master/09)
