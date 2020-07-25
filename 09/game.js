@@ -39,6 +39,7 @@ var Game = /** @class */ (function () {
 window.addEventListener('DOMContentLoaded', function () {
     // Create the game using the 'renderCanvas'.
     var game = new Game('renderCanvas');
+    window.GameInstance = game;
     // Create the scene.
     game.createScene();
     // Start render loop.
