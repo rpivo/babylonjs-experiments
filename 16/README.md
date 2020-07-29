@@ -1,4 +1,4 @@
-## Experiment 15: WebGL2
+## Experiment 16: WebGL2
 
 #### New to Me
 - As of 2017, the current version of WebGL is WebGL2.

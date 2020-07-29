@@ -16,3 +16,4 @@
 - 14 / [Engine Class - canvasTabIndex](https://github.com/rpivo/babylonjs-experiments/tree/master/14)
 - 15 / [Babylon.js' Nullable Type](https://github.com/rpivo/babylonjs-experiments/tree/master/15)
 - 16 / [WebGL2](https://github.com/rpivo/babylonjs-experiments/tree/master/16)
+- 17 / [Web APIs on the Window Object](https://github.com/rpivo/babylonjs-experiments/tree/master/17)
