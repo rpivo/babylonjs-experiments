@@ -22,3 +22,4 @@
 - 20 / [Passing in a WebGLRenderingContext to the Engine Class Constructor](https://github.com/rpivo/babylonjs-experiments/tree/master/20)
 - 21 / [The Scene Class](https://github.com/rpivo/babylonjs-experiments/tree/master/21)
 - 22 / [Actions](https://github.com/rpivo/babylonjs-experiments/tree/master/22)
+- 23 / [Environment Color](https://github.com/rpivo/babylonjs-experiments/tree/master/23)
