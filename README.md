@@ -24,3 +24,4 @@
 - 22 / [Actions](https://github.com/rpivo/babylonjs-experiments/tree/master/22)
 - 23 / [Environment Color](https://github.com/rpivo/babylonjs-experiments/tree/master/23)
 - 24 / [The Color3 Class](https://github.com/rpivo/babylonjs-experiments/tree/master/24)
+- 25 / [Setting clearColor on the Scene Class](https://github.com/rpivo/babylonjs-experiments/tree/master/25)
