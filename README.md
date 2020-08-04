@@ -27,3 +27,4 @@
 - 25 / [Setting clearColor on the Scene Class](https://github.com/rpivo/babylonjs-experiments/tree/master/25)
 - 26 / [The FreeCamera Class](https://github.com/rpivo/babylonjs-experiments/tree/master/26)
 - 27 / [The UniversalCamera Class](https://github.com/rpivo/babylonjs-experiments/tree/master/27)
+- 28 / [Implementing the UniversalCamera Class](https://github.com/rpivo/babylonjs-experiments/tree/master/28)
