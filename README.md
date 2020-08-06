@@ -30,3 +30,4 @@
 - 28 / [Implementing the UniversalCamera Class](https://github.com/rpivo/babylonjs-experiments/tree/master/28)
 - 29 / [The Vector3 Class](https://github.com/rpivo/babylonjs-experiments/tree/master/29)
 - 30 / [UniversalCamera Class - setTarget()](https://github.com/rpivo/babylonjs-experiments/tree/master/30)
+- 31 / [UniversalCamera Class - Setting setTarget() in Different Directions](https://github.com/rpivo/babylonjs-experiments/tree/master/31)
