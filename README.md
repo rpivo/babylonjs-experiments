@@ -32,3 +32,4 @@
 - 30 / [UniversalCamera Class - setTarget()](https://github.com/rpivo/babylonjs-experiments/tree/master/30)
 - 31 / [UniversalCamera Class - Setting setTarget() in Different Directions](https://github.com/rpivo/babylonjs-experiments/tree/master/31)
 - 32 / [UniversalCamera Class - attachControl()](https://github.com/rpivo/babylonjs-experiments/tree/master/32)
+- 33 / [UniversalCamera Class - Updating Controls](https://github.com/rpivo/babylonjs-experiments/tree/master/33)
