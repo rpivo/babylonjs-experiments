@@ -28,7 +28,7 @@ class Game {
     this._camera.setTarget(new BABYLON.Vector3(3,6,9));
 
     // Attach the camera to the canvas
-    // this._camera.attachControl(this._canvas, false);
+    this._camera.attachControl(this._canvas, false);
 
     // Create a basic light, aiming 0,1,0 - meaning, to the sky.
     this._light = new BABYLON.HemisphericLight('light1', new BABYLON.Vector3(0, 1, 0), this._scene);
