@@ -34,3 +34,4 @@
 - 32 / [UniversalCamera Class - attachControl()](https://github.com/rpivo/babylonjs-experiments/tree/master/32)
 - 33 / [UniversalCamera Class - Updating attachControl()](https://github.com/rpivo/babylonjs-experiments/tree/master/33)
 - 34 / [The HemisphericLight Class](https://github.com/rpivo/babylonjs-experiments/tree/master/34)
+- 35 / [HemisphericLight - Updating the Diffuse Property](https://github.com/rpivo/babylonjs-experiments/tree/master/35)
