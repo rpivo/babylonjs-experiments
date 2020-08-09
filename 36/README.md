@@ -1,4 +1,4 @@
-## Experiment 35: HemisphericLight - Updating the Direction Property
+## Experiment 36: HemisphericLight - Updating the Direction Property
 
 #### New to Me
 - HemisphericLight has a property called `direction` that can be set to a Vector3 instance.
