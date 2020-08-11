@@ -38,3 +38,4 @@
 - 36 / [HemisphericLight - Updating the Direction Property](https://github.com/rpivo/babylonjs-experiments/tree/master/36)
 - 37 / [The MeshBuilder Class](https://github.com/rpivo/babylonjs-experiments/tree/master/37)
 - 38 / [The Node Class](https://github.com/rpivo/babylonjs-experiments/tree/master/38)
+- 39 / [The Mesh Class](https://github.com/rpivo/babylonjs-experiments/tree/master/39)
