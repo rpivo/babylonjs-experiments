@@ -39,3 +39,4 @@
 - 37 / [The MeshBuilder Class](https://github.com/rpivo/babylonjs-experiments/tree/master/37)
 - 38 / [The Node Class](https://github.com/rpivo/babylonjs-experiments/tree/master/38)
 - 39 / [The Mesh Class](https://github.com/rpivo/babylonjs-experiments/tree/master/39)
+- 40 / [Euler Angles](https://github.com/rpivo/babylonjs-experiments/tree/master/40)
