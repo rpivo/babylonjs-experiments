@@ -40,3 +40,4 @@
 - 38 / [The Node Class](https://github.com/rpivo/babylonjs-experiments/tree/master/38)
 - 39 / [The Mesh Class](https://github.com/rpivo/babylonjs-experiments/tree/master/39)
 - 40 / [Euler Angles](https://github.com/rpivo/babylonjs-experiments/tree/master/40)
+- 41 / [Local Axes & World Axes](https://github.com/rpivo/babylonjs-experiments/tree/master/41)
