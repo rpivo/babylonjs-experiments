@@ -44,3 +44,4 @@
 - 42 / [The Mesh Class - Position](https://github.com/rpivo/babylonjs-experiments/tree/master/42)
 - 43 / [The Mesh Class - Updating Position](https://github.com/rpivo/babylonjs-experiments/tree/master/43)
 - 44 / [Creating New Meshes With MeshBuilder](https://github.com/rpivo/babylonjs-experiments/tree/master/44)
+- 45 / [The DOMContentLoaded Event](https://github.com/rpivo/babylonjs-experiments/tree/master/45)
