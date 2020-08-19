@@ -1,4 +1,4 @@
-## Experiment 44: The DOMContentLoaded Event
+## Experiment 45: The DOMContentLoaded Event
 
 #### New to Me
 - The `DOMContentLoaded` event fires when the initial HTML document has been completely loaded and parsed, without waiting for stylesheets, images, and subframes to finish loading.
