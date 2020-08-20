@@ -46,3 +46,4 @@
 - 44 / [Creating New Meshes With MeshBuilder](https://github.com/rpivo/babylonjs-experiments/tree/master/44)
 - 45 / [The DOMContentLoaded Event](https://github.com/rpivo/babylonjs-experiments/tree/master/45)
 - 46 / [Engine - runRenderLoop Property](https://github.com/rpivo/babylonjs-experiments/tree/master/46)
+- 47 / [Calculating Framerate With runRenderLoop](https://github.com/rpivo/babylonjs-experiments/tree/master/47)
