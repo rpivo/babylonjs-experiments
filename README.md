@@ -48,3 +48,4 @@
 - 46 / [Engine - runRenderLoop Property](https://github.com/rpivo/babylonjs-experiments/tree/master/46)
 - 47 / [Calculating Framerate With runRenderLoop](https://github.com/rpivo/babylonjs-experiments/tree/master/47)
 - 48 / [Scene - render Property](https://github.com/rpivo/babylonjs-experiments/tree/master/48)
+- 49 / [The resize Event](https://github.com/rpivo/babylonjs-experiments/tree/master/49)
