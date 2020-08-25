@@ -51,3 +51,4 @@
 - 49 / [The resize Event](https://github.com/rpivo/babylonjs-experiments/tree/master/49)
 - 50 / [Types of Engines](https://github.com/rpivo/babylonjs-experiments/tree/master/50)
 - 51 / [Engine Class - resize Property](https://github.com/rpivo/babylonjs-experiments/tree/master/51)
+- 52 / [Babylon 101 - Playground Example 1](https://github.com/rpivo/babylonjs-experiments/tree/master/52)
