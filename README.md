@@ -54,3 +54,4 @@
 - 52 / [Babylon 101 - Playground Example 1](https://github.com/rpivo/babylonjs-experiments/tree/master/52)
 - 53 / [The ArcRotateCamera Class](https://github.com/rpivo/babylonjs-experiments/tree/master/53)
 - 54 / [Radians](https://github.com/rpivo/babylonjs-experiments/tree/master/54)
+- 55 / [The PointLight Class](https://github.com/rpivo/babylonjs-experiments/tree/master/55)
