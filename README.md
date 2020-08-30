@@ -57,3 +57,4 @@
 - 55 / [The PointLight Class](https://github.com/rpivo/babylonjs-experiments/tree/master/55)
 - 56 / [Babylon.js Node Packages](https://github.com/rpivo/babylonjs-experiments/tree/master/56)
 - 57 / [The Babylon.js Core Package](https://github.com/rpivo/babylonjs-experiments/tree/master/57)
+- 58 / [Using Babylon.js With React](https://github.com/rpivo/babylonjs-experiments/tree/master/58)
