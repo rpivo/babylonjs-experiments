@@ -60,3 +60,4 @@
 - 58 / [Using Babylon.js With React](https://github.com/rpivo/babylonjs-experiments/tree/master/58)
 - 59 / [Building Custom React Hooks](https://github.com/rpivo/babylonjs-experiments/tree/master/59)
 - 60 / [Babylon.js, React, & TypeScript - Installing Dependencies](https://github.com/rpivo/babylonjs-experiments/tree/master/60)
+- 61 / [Babylon.js, React, & TypeScript - Installing Rollup](https://github.com/rpivo/babylonjs-experiments/tree/master/61)
