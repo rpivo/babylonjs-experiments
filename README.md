@@ -62,3 +62,4 @@
 - 60 / [Babylon.js, React, & TypeScript - Installing Dependencies](https://github.com/rpivo/babylonjs-experiments/tree/master/60)
 - 61 / [Babylon.js, React, & TypeScript - Installing Rollup](https://github.com/rpivo/babylonjs-experiments/tree/master/61)
 - 62 / [Babylon.js, React, & TypeScript - Installing Types](https://github.com/rpivo/babylonjs-experiments/tree/master/62)
+- 63 / [Babylon.js, React, & TypeScript - Setting up the Entry File](https://github.com/rpivo/babylonjs-experiments/tree/master/63)
