@@ -65,3 +65,4 @@
 - 63 / [Babylon.js, React, & TypeScript - Setting up the Entry File](https://github.com/rpivo/babylonjs-experiments/tree/master/63)
 - 64 / [Rollup's Manual Chunks](https://github.com/rpivo/babylonjs-experiments/tree/master/64)
 - 65 / [Getting Output With Rollup](https://github.com/rpivo/babylonjs-experiments/tree/master/65)
+- 66 / [Organizing Dependencies and Devdependencies for Rollup](https://github.com/rpivo/babylonjs-experiments/tree/master/66)
