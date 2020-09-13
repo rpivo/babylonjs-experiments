@@ -67,3 +67,4 @@
 - 65 / [Getting Output With Rollup](https://github.com/rpivo/babylonjs-experiments/tree/master/65)
 - 66 / [Organizing Dependencies and Devdependencies for Rollup](https://github.com/rpivo/babylonjs-experiments/tree/master/66)
 - 67 / [Rollup - Using manualChunks' Object Form](https://github.com/rpivo/babylonjs-experiments/tree/master/67)
+- 68 / [Running the Rollup Bundle Through Terser](https://github.com/rpivo/babylonjs-experiments/tree/master/68)

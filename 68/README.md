@@ -44,4 +44,4 @@ export default {
   - `react-[hash].js` - 7,334 bytes
   - `reactDOM-[hash].js` - 121,529 bytes
   - total file size: **129,029 bytes**
-- The previous total file size was **1,092,756 bytes** (1.09mb). The new total file size is 129kb.
+- The previous total file size was **1,092,756 bytes** (1.09mb). The new total file size is 129kb (12% of the original size).
