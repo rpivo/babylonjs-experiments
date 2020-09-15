@@ -1,15 +1,10 @@
-## Experiment 68: Running the Rollup Bundle Through Terser
-
-#### New to Me
-- For this build, I added Rollup's `replace` plugin to find instances of `process.env` in the code and stringify it.
-- I also added Rollup's `terser` plugin to minify the code.
-- The new Rollup config looks like this:
-```js
 import commonjs from '@rollup/plugin-commonjs';
 import replace from '@rollup/plugin-replace';
 import resolve from '@rollup/plugin-node-resolve';
 import typescript from '@rollup/plugin-typescript';
+import gzipPlugin from 'rollup-plugin-gzip';
 import { terser } from 'rollup-plugin-terser';
+import { brotliCompressSync } from 'zlib';
 
 const env = process.env.NODE_ENV;
 
@@ -26,6 +21,10 @@ export default {
     plugins: env === 'production' && [terser()],
   },
   plugins: [
+    gzipPlugin({
+      customCompression: (content) => brotliCompressSync(Buffer.from(content)),
+      fileName: '.br',
+    }),
     replace({
       'process.env.NODE_ENV': JSON.stringify(env),
     }),
@@ -36,12 +35,3 @@ export default {
     }),
   ],
 }
-
-```
-- These are the new file sizes for the output:
-  - `babylon-[hash].js` - 1 byte
-  - `index.js` - 165 bytes
-  - `react-[hash].js` - 7,334 bytes
-  - `reactDOM-[hash].js` - 121,529 bytes
-  - total file size: **129,029 bytes**
-- The previous total file size was **1,092,756 bytes** (1.09mb). The new total file size is 129kb (12% of the original size).
