@@ -71,3 +71,4 @@
 - 69 / [Experiment 69: Compressing the Rollup Bundle](https://github.com/rpivo/babylonjs-experiments/tree/master/69)
 - 70 / [Using rollup-plugin-gzip's minSize Field](https://github.com/rpivo/babylonjs-experiments/tree/master/70)
 - 71 / [Preparing the Development Environment](https://github.com/rpivo/babylonjs-experiments/tree/master/71)
+- 72 / [Installing PM2](https://github.com/rpivo/babylonjs-experiments/tree/master/72)
