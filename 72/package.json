@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "export NODE_ENV=production && rm -rf dist && mkdir dist && rollup -c",
-    "run": "",
-    "serve": ""
+    "build": "npm run clean && rollup -c && rm dist/*.js",
+    "serve": "express-compression-server --build=dist --port=1235"
   },
   "keywords": [],
   "author": "Ryan Pivovar <ryanpivovar@gmail.com> (https://github.com/rpivo)",
