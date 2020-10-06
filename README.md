@@ -72,3 +72,4 @@
 - 70 / [Using rollup-plugin-gzip's minSize Field](https://github.com/rpivo/babylonjs-experiments/tree/master/70)
 - 71 / [Preparing the Development Environment](https://github.com/rpivo/babylonjs-experiments/tree/master/71)
 - 72 / [Adding Startup Scripts](https://github.com/rpivo/babylonjs-experiments/tree/master/72)
+- 73 / [Adding Startup Scripts, Continued](https://github.com/rpivo/babylonjs-experiments/tree/master/73)
