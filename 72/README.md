@@ -1,8 +1,8 @@
-## Experiment 72: Adding Startup Scripts
+## Experiment 72: Adding Startup Scripts, Part 1
 
 #### New to Me
 - If we add a shell file, we can build our code and start a local server all in one terminal.
-- Add a `sh` directory, and add a `dev.sh` file:
+- Add a `sh` directory, and add a `serve.sh` file:
 ```sh
 kill -9 $(lsof -t -i:1235);
 npm run build;
