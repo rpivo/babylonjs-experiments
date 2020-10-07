@@ -1,4 +1,4 @@
-## Experiment 73: Adding Startup Scripts, Part 3
+## Experiment 74: Adding Startup Scripts, Part 3
 
 #### New to Me
 - Our `build` script also calls a `clean` script, which we need to add:
