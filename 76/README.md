@@ -1,4 +1,4 @@
-## Experiment 75: Adding the App Component
+## Experiment 76: Adding the App Component
 
 #### New to Me
 - First, we'll create an `App` component. In a new `components` folder, we'll add an `App` folder. In there, we'll add an `index.tsx`:

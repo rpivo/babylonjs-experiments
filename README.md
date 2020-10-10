@@ -76,3 +76,4 @@
 - 74 / [Adding Startup Scripts, Part 3](https://github.com/rpivo/babylonjs-experiments/tree/master/74)
 - 75 / [Running the Development Environment](https://github.com/rpivo/babylonjs-experiments/tree/master/75)
 - 76 / [Adding the App Component](https://github.com/rpivo/babylonjs-experiments/tree/master/76)
+- 77 / [Importing the babylonjs-hook Component](https://github.com/rpivo/babylonjs-experiments/tree/master/77)
