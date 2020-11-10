@@ -78,3 +78,4 @@
 - 76 / [Adding the App Component](https://github.com/rpivo/babylonjs-experiments/tree/master/76)
 - 77 / [Importing the babylonjs-hook Component](https://github.com/rpivo/babylonjs-experiments/tree/master/77)
 - 78 / [Giving the Scene Component an ID](https://github.com/rpivo/babylonjs-experiments/tree/master/78)
+- 79 / [Preparing the onSceneReady Function](https://github.com/rpivo/babylonjs-experiments/tree/master/79)
